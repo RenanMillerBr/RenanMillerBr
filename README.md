@@ -32,12 +32,7 @@
 ### 🚀 **Currently Exploring**<br>- **AI agents** applied to workflow automation  <br>- Advanced integrations with **CRMs, Slack, Notion, and e-commerce platforms**  <br>- **Performance optimization and monitoring** for n8n workflows  <br><br>---<br><br>
 ### 📈 **About Me**<br>Organized, collaborative, and challenge-driven — I believe **automation is about empowering people**, creating smart and accessible solutions that transform how we work.  <br><br>---<br><br><br><br>⭐ _“Automation is about freeing time for what truly matters — creating, thinking, and evolving.”_</p>
 
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -67,8 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
